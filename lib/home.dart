@@ -21,7 +21,7 @@ class _HomePageState extends State<HomePage> {
           ),
           
           centerTitle: false,
-          backgroundColor: Colors.blue[600],
+          backgroundColor: Colors.orange[600],
         ),
         body: Stack(
           children: [
